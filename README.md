@@ -1,5 +1,5 @@
 <picture>
-<img src="https://raw.githubusercontent.com/Me163/rusty_llama/main/screenshot.png" />
+<img src="https://raw.githubusercontent.com/codeitlikemiley/rusty_llama/main/screenshot.png" />
 </picture>
 
 # Rusty Llama Webapp
@@ -37,5 +37,5 @@ To run the project locally,
 * [Wizard-Vicuna-30B-Uncensored.ggmlv3.q2_K.bin](https://huggingface.co/TheBloke/Wizard-Vicuna-30B-Uncensored-GGML)
 
 <picture>
-<img src="https://raw.githubusercontent.com/Me163/rusty_llama/main/metal_llama.png" />
+<img src="https://raw.githubusercontent.com/codeitlikemiley/rusty_llama/main/metal_llama.png" />
 </picture>
